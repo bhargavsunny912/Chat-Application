@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("https://asset.gecdesigns.com/img/wallpapers/aesthetic-lakeside-beauty-background-hd-wallpaper-sr10012409-1704894284394-cover.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
