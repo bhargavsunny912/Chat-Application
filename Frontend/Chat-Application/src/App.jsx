@@ -11,7 +11,6 @@ const approuter = createBrowserRouter([
 ]);
 
 function App() {
-
   return (
     <div className="h-screen text-white">
       <RouterProvider router={approuter} />
